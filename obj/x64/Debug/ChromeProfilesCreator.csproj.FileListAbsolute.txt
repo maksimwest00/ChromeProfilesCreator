@@ -1,0 +1,51 @@
+D:\разр\Steam Account Switcher\bin\x64\Debug\HtmlAgilityPack.dll
+D:\разр\Steam Account Switcher\bin\x64\Debug\Newtonsoft.Json.dll
+D:\разр\Steam Account Switcher\bin\x64\Debug\SteamAuth.dll
+D:\разр\Steam Account Switcher\bin\x64\Debug\HtmlAgilityPack.pdb
+D:\разр\Steam Account Switcher\bin\x64\Debug\HtmlAgilityPack.xml
+D:\разр\Steam Account Switcher\bin\x64\Debug\Newtonsoft.Json.xml
+D:\разр\Steam Account Switcher\bin\x64\Debug\SteamAuth.pdb
+D:\разр\Steam Account Switcher\bin\x64\Debug\SteamAuth.xml
+D:\разр\Steam Account Switcher\obj\x64\Debug\ChromeProfilesCreator.csprojAssemblyReference.cache
+D:\разр\Steam Account Switcher\obj\x64\Debug\ChromeProfilesCreator.frmMain.resources
+D:\разр\Steam Account Switcher\obj\x64\Debug\ChromeProfilesCreator.csproj.GenerateResource.cache
+D:\разр\Steam Account Switcher\obj\x64\Debug\ChromeProfilesCreator.csproj.CoreCompileInputs.cache
+D:\разр\Steam Account Switcher\obj\x64\Debug\ChromeProfilesCreator.csproj.CopyComplete
+D:\разр\Steam Account Switcher\bin\x64\Debug\ChromeProfilesCreator.exe.config
+D:\разр\Steam Account Switcher\bin\x64\Debug\ChromeProfilesCreator.exe.manifest
+D:\разр\Steam Account Switcher\bin\x64\Debug\ChromeProfilesCreator.application
+D:\разр\Steam Account Switcher\bin\x64\Debug\ChromeProfilesCreator.exe
+D:\разр\Steam Account Switcher\bin\x64\Debug\ChromeProfilesCreator.pdb
+D:\разр\Steam Account Switcher\obj\x64\Debug\ChromeProfilesCreator.Properties.Resources.resources
+D:\разр\Steam Account Switcher\obj\x64\Debug\ChromeProfilesCreator.exe.manifest
+D:\разр\Steam Account Switcher\obj\x64\Debug\ChromeProfilesCreator.application
+D:\разр\Steam Account Switcher\obj\x64\Debug\ChromeProfilesCreator.exe
+D:\разр\Steam Account Switcher\obj\x64\Debug\ChromeProfilesCreator.pdb
+D:\разр\ChromeProfilesCreator\bin\x64\Debug\ChromeProfilesCreator.exe.config
+D:\разр\ChromeProfilesCreator\bin\x64\Debug\ChromeProfilesCreator.exe.manifest
+D:\разр\ChromeProfilesCreator\bin\x64\Debug\ChromeProfilesCreator.application
+D:\разр\ChromeProfilesCreator\bin\x64\Debug\ChromeProfilesCreator.exe
+D:\разр\ChromeProfilesCreator\bin\x64\Debug\ChromeProfilesCreator.pdb
+D:\разр\ChromeProfilesCreator\obj\x64\Debug\ChromeProfilesCreator.csprojAssemblyReference.cache
+D:\разр\ChromeProfilesCreator\obj\x64\Debug\ChromeProfilesCreator.frmMain.resources
+D:\разр\ChromeProfilesCreator\obj\x64\Debug\ChromeProfilesCreator.Properties.Resources.resources
+D:\разр\ChromeProfilesCreator\obj\x64\Debug\ChromeProfilesCreator.csproj.GenerateResource.cache
+D:\разр\ChromeProfilesCreator\obj\x64\Debug\ChromeProfilesCreator.csproj.CoreCompileInputs.cache
+D:\разр\ChromeProfilesCreator\obj\x64\Debug\ChromeProfilesCreator.exe.manifest
+D:\разр\ChromeProfilesCreator\obj\x64\Debug\ChromeProfilesCreator.application
+D:\разр\ChromeProfilesCreator\obj\x64\Debug\ChromeProfilesCreator.exe
+D:\разр\ChromeProfilesCreator\obj\x64\Debug\ChromeProfilesCreator.pdb
+D:\разр\разработка 1\ChromeProfilesCreator\bin\x64\Debug\ChromeProfilesCreator.exe.config
+D:\разр\разработка 1\ChromeProfilesCreator\bin\x64\Debug\ChromeProfilesCreator.exe.manifest
+D:\разр\разработка 1\ChromeProfilesCreator\bin\x64\Debug\ChromeProfilesCreator.application
+D:\разр\разработка 1\ChromeProfilesCreator\bin\x64\Debug\ChromeProfilesCreator.exe
+D:\разр\разработка 1\ChromeProfilesCreator\bin\x64\Debug\ChromeProfilesCreator.pdb
+D:\разр\разработка 1\ChromeProfilesCreator\obj\x64\Debug\ChromeProfilesCreator.csprojAssemblyReference.cache
+D:\разр\разработка 1\ChromeProfilesCreator\obj\x64\Debug\ChromeProfilesCreator.frmMain.resources
+D:\разр\разработка 1\ChromeProfilesCreator\obj\x64\Debug\ChromeProfilesCreator.Properties.Resources.resources
+D:\разр\разработка 1\ChromeProfilesCreator\obj\x64\Debug\ChromeProfilesCreator.csproj.GenerateResource.cache
+D:\разр\разработка 1\ChromeProfilesCreator\obj\x64\Debug\ChromeProfilesCreator.csproj.CoreCompileInputs.cache
+D:\разр\разработка 1\ChromeProfilesCreator\obj\x64\Debug\ChromeProfilesCreator.exe.manifest
+D:\разр\разработка 1\ChromeProfilesCreator\obj\x64\Debug\ChromeProfilesCreator.application
+D:\разр\разработка 1\ChromeProfilesCreator\obj\x64\Debug\ChromeProfilesCreator.exe
+D:\разр\разработка 1\ChromeProfilesCreator\obj\x64\Debug\ChromeProfilesCreator.pdb
